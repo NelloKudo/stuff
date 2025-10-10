@@ -6,8 +6,8 @@
 
 # Relies on 'curl' and 'tar'.
 
-LAUNCHER_PATHS=("$HOME/.local/share/sleepy-launcher"
-                "$HOME/.var/app/moe.launcher.sleepy-launcher/data/sleepy-launcher")
+LAUNCHER_PATHS=("$HOME/.var/app/moe.launcher.sleepy-launcher/data/sleepy-launcher"
+                "$HOME/.local/share/sleepy-launcher")
 
 DXVK_NVAPI_VER="0.9.0"
 VKD3D_PROTON_VER="2.14.1"
